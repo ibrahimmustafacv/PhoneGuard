@@ -1,0 +1,1587 @@
+=== PhoneGuard Advanced Report ===
+Generated: 2026-06-17 19:27:46.092552
+
+Package: com.mediatek.gba
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.ims
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.cts.priv.ctsshim
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.statisticalsales
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.internal.display.cutout.emulation.corner
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.ext.services
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.internal.display.cutout.emulation.double
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.microsoft.appmanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.telephony
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.plat.appupdate
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.truecaller
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.phonemaster
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.calendar
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: org.telegram.messenger
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.emeint.android.myservices
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.media
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.onetimeinitializer
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.ext.shared
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.location.lppe.main
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.wallpapercropper
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.magicfont
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.schpwronoff
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.mapslite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.agingfunction
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.documentsui
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: android.auto_generated_rro__
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.externalstorage
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.ygps
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.simprocessor
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.htmlviewer
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.whatsapp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.companiondevicemanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.navlite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.mms.service
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.downloads
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.messaging
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.engineermode
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: ru.zdevs.zarchiver
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.openai.chatgpt
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.omacp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: mark.via.gp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.configupdater
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: stickerwhatsapp.com.stickers
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.defcontainer
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: eg.gov.tra
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.infinix
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.calculator.hideu
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.downloads.ui
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.clover.secscanner
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.vending
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.pacprocessor
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.simappdialog
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.gm.lite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.aogservice
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.internal.display.cutout.emulation.tall
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.certinstaller
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: io.telda.app
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.theme.icon
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.carrierconfig
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.sand.airdroid
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.ucare.we
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: android
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.contacts
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.powercenter
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.egg
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.mtp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.stk
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.backupconfirm
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.deepseek.chat
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.jupiter.tornado
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.pinterest
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.readmode
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.statementservice
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.trassion.infinix.xclub
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.camera
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.fawry.myfawry
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.happymod.apk
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.settings.intelligence
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.providers.drm
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.systemui.theme.dark
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.faceid
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.searchlite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.qrcodereader
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.apkpure.aegon
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.setupwizard
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.settings
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.sharedstoragebackup
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.batterywarning
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.facebook.services
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.printspooler
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.gallery20
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.XOSLauncher
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.cybercat.acbridge
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.snaptube.premium
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.incallui
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.phonemanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.se
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.inputdevices
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.wellbeing
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.bips
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.lge.app1
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.nbu.files
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.example
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: shareit.lite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.docs
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.hoffnung
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.cellbroadcastreceiver
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.webview
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.nlpservice
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.server.telecom
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.syncadapters.contacts
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.keychain
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.chrome
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.gallery3d
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.packageinstaller
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.applock
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.gms
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.gsf
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.ims
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.tts
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.calllogbackup
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.partnersetup
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.fmradio
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.carrierdefaultapp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.atmwifimeta
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.proxyhandler
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.phoenix
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.reallytek.wg
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.feedback
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.printservice.recommendation
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.calendar
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.managedprovisioning
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.wo.voice2
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.truedevelopersstudio.automatictap.autoclicker
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.fpsensor_sample.fpSensorExtensionSvc2
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.aibox
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.thermalmanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.callrecorder
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.speechservices
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.partnerbookmarks
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.smspush
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.overlaysuw
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.facebook.lite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.facebook.orca
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.dev47apps.obsdroidcam
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.videocallenhancer
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.facebook.system
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.gms.policy_sidecar_aps
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsnet.store
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.translate
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.smartpanel
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.backuptransport
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.microintelligence
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.storagemanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.bookmarkprovider
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.settings
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: app.likestory.premium
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.rlk.mi
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.cdfinger.factorytest
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.lbs.em2.ui
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: net.bat.store
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.cts.ctsshim
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.sh.smart.caller
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.assistant
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.vpndialogs
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.keyguardgesture
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.keep
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.phone
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.shell
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.systemupdate
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.wallpaperbackup
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.blockednumber
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.soundrecorder
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.userdictionary
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.emergency
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.location.fused
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.systemui
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.youtube.mango
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.youtube.music
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.calculator
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.bluetoothmidiservice
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.os.typeface
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.location.mtknlp
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.facebook.appmanager
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.traceur
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.mediatek.mtklogger
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.bluetooth
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.wallpaperpicker
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.providers.contacts
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.android.captiveportallogin
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.compass
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.transsion.deskclock
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.snapchat.android
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.instagram.lite
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.inputmethod.latin
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+
+Package: com.google.android.apps.restore
+  Risk Score: 0/10
+  Dangerous Permissions: 
+  Suspicious: No
+  Boot Receiver: No
+  Ads Libraries: None
+  Accessibility: No
+

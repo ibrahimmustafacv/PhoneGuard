@@ -1,0 +1,17 @@
+[
+  {
+    "rule_name": "Receives BOOT_COMPLETED",
+    "confidence": 80,
+    "description": "Starts automatically on boot"
+  },
+  {
+    "rule_name": "Uses SYSTEM_ALERT_WINDOW",
+    "confidence": 70,
+    "description": "Can display overlays (ads)"
+  },
+  {
+    "rule_name": "Uses Accessibility Service",
+    "confidence": 90,
+    "description": "Can simulate clicks (malware behavior)"
+  }
+]
