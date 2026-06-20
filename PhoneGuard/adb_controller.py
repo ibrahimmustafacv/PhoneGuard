@@ -51,8 +51,18 @@ class ADBController:
         if as_root:
             cmd.append("root")
         cmd.extend(command.split())
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        return result.stdout.strip()
+        try:
+            # استخدام errors='ignore' لتجنب مشاكل الترميز
+            result = subprocess.run(cmd, capture_output=True, text=True, errors='ignore')
+            return result.stdout.strip()
+        except UnicodeDecodeError:
+            # إذا حدث خطأ في الترميز، نحاول مرة أخرى مع encoding مختلف
+            try:
+                result = subprocess.run(cmd, capture_output=True, text=False)
+                # محاولة فك الترميز باستخدام latin-1 (يتعامل مع جميع البايتات)
+                return result.stdout.decode('latin-1', errors='ignore').strip()
+            except:
+                return ""
 
     def list_packages(self):
         output = self.run_adb("shell pm list packages")
@@ -82,27 +92,23 @@ class ADBController:
                 break
         return permissions
 
-    # ---------- دوال جديدة ----------
     def pull_apk(self, package):
         """سحب ملف APK من الجهاز إلى المجلد المحلي"""
-        # الحصول على مسار APK
         path_output = self.run_adb(f"shell pm path {package}")
         if not path_output:
             return None
-        # استخراج المسار الفعلي
         if "package:" in path_output:
             apk_path = path_output.split(":")[1].strip()
         else:
             return None
-        # سحب الملف
         local_path = f"apks/{package}.apk"
         os.makedirs("apks", exist_ok=True)
         result = self.run_adb(f"pull {apk_path} {local_path}")
-        if "error" in result.lower():
+        if result and "error" in result.lower():
             print(f"[!] Failed to pull APK for {package}")
             return None
         return local_path
 
     def uninstall_package(self, package):
         result = self.run_adb(f"uninstall {package}")
-        return "Success" in result
+        return result and "Success" in result
