@@ -84,3 +84,4 @@ Every scanned app receives a risk score from **0 to 100**:
 ```bash
 git clone https://github.com/ibrahimmustafacv/PhoneGuard
 cd PhoneGuard
+python3 main.py
