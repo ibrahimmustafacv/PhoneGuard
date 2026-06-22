@@ -101,10 +101,12 @@ L10N = {
         "menu_10_desc": "Analyze an APK file from local storage",
         "menu_11": "Install APK",
         "menu_11_desc": "Install an APK file to the connected device",
-        "menu_12": "View Last Report",
-        "menu_12_desc": "Open the most recent scan report",
-        "menu_13": "Exit",
-        "menu_13_desc": "Close PhoneGuard",
+        "menu_12": "Screen Mirror & Control",
+        "menu_12_desc": "Full device control with screen mirroring",
+        "menu_13": "View Last Report",
+        "menu_13_desc": "Open the most recent scan report",
+        "menu_14": "Exit",
+        "menu_14_desc": "Close PhoneGuard",
         "select_option": "▶  Select option",
         "no_rich": "[!] Install rich for best experience: pip3 install rich",
         "fetching_packages": "Fetching Packages",
@@ -140,7 +142,7 @@ L10N = {
         "uninstall_fail": "✘  Failed to remove {pkg}.",
         "skipped": "⏭  Skipped {pkg}.",
         "no_packages_selected": "No packages selected for uninstall.",
-        "invalid_option": "✘  Invalid option. Please choose 1–13.",
+        "invalid_option": "✘  Invalid option. Please choose 1–14.",
         "goodbye": "👋  Thank you for using PhoneGuard. Stay secure!",
         "goodbye_ctrl_c": "👋 Thank you for using PhoneGuard. Share it with your friends and follow us for more tools!",
         "risk_critical": "CRITICAL",
@@ -261,6 +263,37 @@ L10N = {
         "col_network": "Network Req.",
         "col_memory": "Memory (KB)",
         "skip_android": "⏭  Skipping system framework (android)",
+        # Screen Control
+        "sc_title": "📱 Screen Mirror & Control",
+        "sc_start_mirror": "Start Screen Mirror (scrcpy)",
+        "sc_start_mirror_desc": "Open a separate window with device screen",
+        "sc_screenshot": "Take Screenshot",
+        "sc_screenshot_desc": "Capture and save screenshot to PC",
+        "sc_record": "Record Screen",
+        "sc_record_desc": "Record video with custom duration",
+        "sc_vol_up": "Volume Up",
+        "sc_vol_down": "Volume Down",
+        "sc_power": "Power (toggle)",
+        "sc_home": "Home",
+        "sc_back": "Back",
+        "sc_recent": "Recent Apps",
+        "sc_reboot": "Reboot Device",
+        "sc_info": "Show Device Info",
+        "sc_back": "Back to Main Menu",
+        "sc_enter_duration": "Enter recording duration in seconds (default 10):",
+        "sc_recording": "⏳  Recording screen for {duration}s...",
+        "sc_record_saved": "✔  Video saved to: {path}",
+        "sc_record_fail": "✘  Screen recording failed: {error}",
+        "sc_screenshot_saved": "✔  Screenshot saved to: {path}",
+        "sc_screenshot_fail": "✘  Screenshot failed: {error}",
+        "sc_reboot_confirm": "Are you sure you want to reboot the device?",
+        "sc_rebooting": "⏳  Rebooting device...",
+        "sc_reboot_success": "✔  Reboot command sent.",
+        "sc_reboot_fail": "✘  Reboot failed: {error}",
+        "sc_scrcpy_missing": "⚠  scrcpy not found. Install it with: sudo apt install scrcpy  (or from https://github.com/Genymobile/scrcpy)",
+        "sc_scrcpy_start": "⏳  Starting scrcpy... (close the window to return)",
+        "sc_device_info": "📋 Device Information",
+        "sc_no_device": "✘  No device connected.",
     },
     "ar": {
         "app_title": "⚡  ماسح البرمجيات الخبيثة والإعلانات لأندرويد",
@@ -290,10 +323,12 @@ L10N = {
         "menu_10_desc": "تحليل ملف APK من المجلد المحلي",
         "menu_11": "تثبيت APK",
         "menu_11_desc": "تثبيت ملف APK على الجهاز المتصل",
-        "menu_12": "عرض آخر تقرير",
-        "menu_12_desc": "فتح أحدث تقرير فحص",
-        "menu_13": "خروج",
-        "menu_13_desc": "إغلاق PhoneGuard",
+        "menu_12": "بث الشاشة والتحكم",
+        "menu_12_desc": "تحكم كامل بالجهاز مع بث للشاشة",
+        "menu_13": "عرض آخر تقرير",
+        "menu_13_desc": "فتح أحدث تقرير فحص",
+        "menu_14": "خروج",
+        "menu_14_desc": "إغلاق PhoneGuard",
         "select_option": "▶  اختر الخيار",
         "no_rich": "[!] قم بتثبيت rich للحصول على أفضل تجربة: pip3 install rich",
         "fetching_packages": "جلب الحزم",
@@ -329,7 +364,7 @@ L10N = {
         "uninstall_fail": "✘  فشلت إزالة {pkg}.",
         "skipped": "⏭  تم تخطي {pkg}.",
         "no_packages_selected": "لم يتم اختيار أي حزمة للإزالة.",
-        "invalid_option": "✘  خيار غير صحيح. الرجاء الاختيار من 1 إلى 13.",
+        "invalid_option": "✘  خيار غير صحيح. الرجاء الاختيار من 1 إلى 14.",
         "goodbye": "👋  شكراً لاستخدامك PhoneGuard. ابقَ آمناً!",
         "goodbye_ctrl_c": "👋 شكراً لاستخدامك PhoneGuard. شاركها مع أصدقائك وتابعنا للمزيد من الأدوات!",
         "risk_critical": "خطير",
@@ -450,6 +485,37 @@ L10N = {
         "col_network": "طلبات الشبكة",
         "col_memory": "الذاكرة (ك.ب)",
         "skip_android": "⏭  تخطي إطار النظام (android)",
+        # Screen Control
+        "sc_title": "📱 بث الشاشة والتحكم",
+        "sc_start_mirror": "بدء بث الشاشة (scrcpy)",
+        "sc_start_mirror_desc": "فتح نافذة منفصلة تعرض شاشة الجهاز",
+        "sc_screenshot": "التقاط لقطة شاشة",
+        "sc_screenshot_desc": "حفظ لقطة الشاشة على الكمبيوتر",
+        "sc_record": "تسجيل الشاشة",
+        "sc_record_desc": "تسجيل فيديو بمدة محددة",
+        "sc_vol_up": "رفع الصوت",
+        "sc_vol_down": "خفض الصوت",
+        "sc_power": "الطاقة (تبديل)",
+        "sc_home": "الصفحة الرئيسية",
+        "sc_back": "رجوع",
+        "sc_recent": "التطبيقات الحديثة",
+        "sc_reboot": "إعادة تشغيل الجهاز",
+        "sc_info": "عرض معلومات الجهاز",
+        "sc_back": "العودة إلى القائمة الرئيسية",
+        "sc_enter_duration": "أدخل مدة التسجيل بالثواني (الافتراضي 10):",
+        "sc_recording": "⏳  جاري تسجيل الشاشة لمدة {duration} ثانية...",
+        "sc_record_saved": "✔  تم حفظ الفيديو في: {path}",
+        "sc_record_fail": "✘  فشل تسجيل الشاشة: {error}",
+        "sc_screenshot_saved": "✔  تم حفظ لقطة الشاشة في: {path}",
+        "sc_screenshot_fail": "✘  فشل التقاط الشاشة: {error}",
+        "sc_reboot_confirm": "هل أنت متأكد من إعادة تشغيل الجهاز؟",
+        "sc_rebooting": "⏳  جاري إعادة تشغيل الجهاز...",
+        "sc_reboot_success": "✔  تم إرسال أمر إعادة التشغيل.",
+        "sc_reboot_fail": "✘  فشل إعادة التشغيل: {error}",
+        "sc_scrcpy_missing": "⚠  لم يتم العثور على scrcpy. قم بتثبيته عبر: sudo apt install scrcpy  (أو من https://github.com/Genymobile/scrcpy)",
+        "sc_scrcpy_start": "⏳  جاري تشغيل scrcpy... (أغلق النافذة للعودة)",
+        "sc_device_info": "📋 معلومات الجهاز",
+        "sc_no_device": "✘  لا يوجد جهاز متصل.",
     }
 }
 
@@ -474,7 +540,7 @@ def print_banner():
     console.print()
 
 # ──────────────────────────────────────────────────────────────
-#  MENU (محدث حتى 13)
+#  MENU (محدث حتى 14)
 # ──────────────────────────────────────────────────────────────
 def print_menu():
     if not RICH_AVAILABLE:
@@ -492,8 +558,9 @@ def print_menu():
         print("  │  [9]  VirusTotal Scan               │")
         print("  │  [10] Local APK Analysis            │")
         print("  │  [11] Install APK                   │")
-        print("  │  [12] View Last Report              │")
-        print("  │  [13] Exit                          │")
+        print("  │  [12] Screen Mirror & Control       │")
+        print("  │  [13] View Last Report              │")
+        print("  │  [14] Exit                          │")
         print("  └─────────────────────────────────────┘\n")
         return
 
@@ -509,8 +576,9 @@ def print_menu():
         ("9", "🛡️", TEXTS["menu_9"], TEXTS["menu_9_desc"], THEME['warning']),
         ("10", "📁", TEXTS["menu_10"], TEXTS["menu_10_desc"], THEME['secondary']),
         ("11", "📲", TEXTS["menu_11"], TEXTS["menu_11_desc"], THEME['success']),
-        ("12", "📄", TEXTS["menu_12"], TEXTS["menu_12_desc"], THEME['secondary']),
-        ("13", "🚪", TEXTS["menu_13"], TEXTS["menu_13_desc"], THEME['muted']),
+        ("12", "📱", TEXTS["menu_12"], TEXTS["menu_12_desc"], THEME['primary']),
+        ("13", "📄", TEXTS["menu_13"], TEXTS["menu_13_desc"], THEME['secondary']),
+        ("14", "🚪", TEXTS["menu_14"], TEXTS["menu_14_desc"], THEME['muted']),
     ]
 
     table = Table(
@@ -544,7 +612,7 @@ def get_user_choice():
     if RICH_AVAILABLE:
         choice_str = Prompt.ask(
             f"  [{THEME['primary']}]{TEXTS['select_option']}[/]",
-            choices=["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13"],
+            choices=["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"],
             show_choices=True,
         )
         return int(choice_str)
@@ -1695,7 +1763,7 @@ def install_apk(adb):
 # ──────────────────────────────────────────────────────────────
 def view_last_report():
     console.print()
-    console.print(Rule(f"[bold {THEME['primary']}] {TEXTS['menu_12']} [/]", style=THEME['border']))
+    console.print(Rule(f"[bold {THEME['primary']}] {TEXTS['menu_13']} [/]", style=THEME['border']))
     report_dir = "logs"
     if os.path.exists(report_dir):
         reports = sorted(
@@ -1711,6 +1779,209 @@ def view_last_report():
             console.print(f"\n  [{THEME['warning']}]{TEXTS['no_reports']}[/]")
     else:
         console.print(f"\n  [{THEME['warning']}]{TEXTS['reports_dir_not_found']}[/]")
+
+# ──────────────────────────────────────────────────────────────
+#  SCREEN CONTROL & MIRROR (الميزة الجديدة)
+# ──────────────────────────────────────────────────────────────
+def screen_control(adb):
+    console.print()
+    console.print(Rule(f"[bold {THEME['primary']}] {TEXTS['sc_title']} [/]", style=THEME['border']))
+
+    # التحقق من وجود scrcpy
+    scrcpy_found = False
+    try:
+        subprocess.run(["scrcpy", "--version"], capture_output=True, check=False)
+        scrcpy_found = True
+    except FileNotFoundError:
+        scrcpy_found = False
+
+    while True:
+        if RICH_AVAILABLE:
+            console.print("\n  [bold]" + TEXTS['sc_title'] + "[/]")
+            menu_items = [
+                ("1", TEXTS['sc_start_mirror'], TEXTS['sc_start_mirror_desc']),
+                ("2", TEXTS['sc_screenshot'], TEXTS['sc_screenshot_desc']),
+                ("3", TEXTS['sc_record'], TEXTS['sc_record_desc']),
+                ("4", TEXTS['sc_vol_up'], ""),
+                ("5", TEXTS['sc_vol_down'], ""),
+                ("6", TEXTS['sc_power'], ""),
+                ("7", TEXTS['sc_home'], ""),
+                ("8", TEXTS['sc_back'], ""),
+                ("9", TEXTS['sc_recent'], ""),
+                ("10", TEXTS['sc_reboot'], ""),
+                ("11", TEXTS['sc_info'], ""),
+                ("12", TEXTS['sc_back'], ""),
+            ]
+            table = Table(box=box.ROUNDED, border_style=THEME['border'], header_style=f"bold {THEME['primary']}")
+            table.add_column("#", width=4, style=f"bold {THEME['primary']}")
+            table.add_column("Action", style=THEME['text'])
+            table.add_column("Description", style=f"dim {THEME['muted']}")
+            for num, action, desc in menu_items:
+                table.add_row(num, action, desc)
+            console.print(table)
+            choice = Prompt.ask(f"  [{THEME['primary']}]{TEXTS['select_option']}[/]", choices=[str(i) for i in range(1,13)], default="12")
+            choice = int(choice)
+        else:
+            print("\n  " + TEXTS['sc_title'])
+            print("  1. " + TEXTS['sc_start_mirror'])
+            print("  2. " + TEXTS['sc_screenshot'])
+            print("  3. " + TEXTS['sc_record'])
+            print("  4. " + TEXTS['sc_vol_up'])
+            print("  5. " + TEXTS['sc_vol_down'])
+            print("  6. " + TEXTS['sc_power'])
+            print("  7. " + TEXTS['sc_home'])
+            print("  8. " + TEXTS['sc_back'])
+            print("  9. " + TEXTS['sc_recent'])
+            print("  10. " + TEXTS['sc_reboot'])
+            print("  11. " + TEXTS['sc_info'])
+            print("  12. " + TEXTS['sc_back'])
+            try:
+                choice = int(input(f"  {TEXTS['select_option']}: ").strip())
+            except:
+                choice = 12
+
+        if choice == 12:
+            break
+
+        elif choice == 1:  # Start mirror
+            if not scrcpy_found:
+                console.print(f"\n  [{THEME['accent']}]{TEXTS['sc_scrcpy_missing']}[/]")
+                continue
+            console.print(f"\n  [{THEME['primary']}]{TEXTS['sc_scrcpy_start']}[/]")
+            try:
+                subprocess.Popen(["scrcpy", "-s", adb.device_serial])
+            except Exception as e:
+                console.print(f"  [{THEME['accent']}]✘  {e}[/]")
+            input(f"\n  {TEXTS['press_enter']}")
+
+        elif choice == 2:  # Screenshot
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            filename = f"screenshot_{timestamp}.png"
+            remote_path = "/sdcard/screenshot_temp.png"
+            result = adb.run_adb(f"shell screencap -p {remote_path}")
+            if "error" in result.lower():
+                console.print(f"  [{THEME['accent']}]{TEXTS['sc_screenshot_fail'].format(error=result)}[/]")
+            else:
+                pull_result = adb.run_adb(f"pull {remote_path} {filename}")
+                adb.run_adb(f"shell rm {remote_path}")
+                if os.path.exists(filename):
+                    console.print(f"  [{THEME['success']}]{TEXTS['sc_screenshot_saved'].format(path=os.path.abspath(filename))}[/]")
+                else:
+                    console.print(f"  [{THEME['accent']}]{TEXTS['sc_screenshot_fail'].format(error='Pull failed')}[/]")
+            input(f"\n  {TEXTS['press_enter']}")
+
+        elif choice == 3:  # Record screen
+            if RICH_AVAILABLE:
+                duration_str = Prompt.ask(f"  [{THEME['primary']}]{TEXTS['sc_enter_duration']}[/]", default="10")
+            else:
+                duration_str = input(f"  {TEXTS['sc_enter_duration']}: ") or "10"
+            try:
+                duration = int(duration_str)
+            except:
+                duration = 10
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            filename = f"screenrecord_{timestamp}.mp4"
+            remote_path = f"/sdcard/screenrecord_{timestamp}.mp4"
+            console.print(f"  [{THEME['primary']}]{TEXTS['sc_recording'].format(duration=duration)}[/]")
+            result = adb.run_adb(f"shell screenrecord --time-limit {duration} {remote_path}")
+            if "error" in result.lower() or "failed" in result.lower():
+                console.print(f"  [{THEME['accent']}]{TEXTS['sc_record_fail'].format(error=result)}[/]")
+            else:
+                pull_result = adb.run_adb(f"pull {remote_path} {filename}")
+                adb.run_adb(f"shell rm {remote_path}")
+                if os.path.exists(filename):
+                    console.print(f"  [{THEME['success']}]{TEXTS['sc_record_saved'].format(path=os.path.abspath(filename))}[/]")
+                else:
+                    console.print(f"  [{THEME['accent']}]{TEXTS['sc_record_fail'].format(error='Pull failed')}[/]")
+            input(f"\n  {TEXTS['press_enter']}")
+
+        elif choice == 4:  # Volume Up
+            adb.run_adb("shell input keyevent 24")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_vol_up']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 5:  # Volume Down
+            adb.run_adb("shell input keyevent 25")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_vol_down']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 6:  # Power
+            adb.run_adb("shell input keyevent 26")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_power']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 7:  # Home
+            adb.run_adb("shell input keyevent 3")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_home']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 8:  # Back
+            adb.run_adb("shell input keyevent 4")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_back']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 9:  # Recent Apps
+            adb.run_adb("shell input keyevent KEYCODE_APP_SWITCH")
+            console.print(f"  [{THEME['success']}]✔ {TEXTS['sc_recent']}[/]")
+            time.sleep(0.5)
+
+        elif choice == 10:  # Reboot
+            if RICH_AVAILABLE:
+                confirm = Confirm.ask(f"  [{THEME['warning']}]{TEXTS['sc_reboot_confirm']}[/]")
+            else:
+                confirm = input(f"  {TEXTS['sc_reboot_confirm']} (y/n): ").strip().lower() == 'y'
+            if confirm:
+                console.print(f"  [{THEME['primary']}]{TEXTS['sc_rebooting']}[/]")
+                result = adb.run_adb("shell reboot")
+                if "error" in result.lower() or "failed" in result.lower():
+                    console.print(f"  [{THEME['accent']}]{TEXTS['sc_reboot_fail'].format(error=result)}[/]")
+                else:
+                    console.print(f"  [{THEME['success']}]{TEXTS['sc_reboot_success']}[/]")
+            else:
+                console.print(f"  [{THEME['muted']}]Cancelled.[/]")
+            input(f"\n  {TEXTS['press_enter']}")
+
+        elif choice == 11:  # Device Info
+            console.print()
+            console.print(Rule(f"[bold {THEME['primary']}] {TEXTS['sc_device_info']} [/]", style=THEME['border']))
+            props = adb.run_adb("shell getprop")
+            if props:
+                lines = props.splitlines()
+                info = {}
+                for line in lines:
+                    if "[" in line and "]" in line:
+                        parts = line.split("]: [")
+                        if len(parts) == 2:
+                            key = parts[0].strip().replace("[", "")
+                            val = parts[1].strip().replace("]", "")
+                            info[key] = val
+                # أهم المعلومات
+                display_keys = {
+                    "ro.product.model": "Model",
+                    "ro.product.manufacturer": "Manufacturer",
+                    "ro.build.version.release": "Android Version",
+                    "ro.build.version.sdk": "SDK",
+                    "ro.product.cpu.abi": "CPU ABI",
+                    "ro.product.board": "Board",
+                    "ro.build.display.id": "Build ID",
+                    "ro.serialno": "Serial",
+                    "ro.hardware": "Hardware",
+                }
+                if RICH_AVAILABLE:
+                    table = Table(box=box.ROUNDED, border_style=THEME['border'])
+                    table.add_column("Property", style=f"bold {THEME['primary']}")
+                    table.add_column("Value", style=THEME['text'])
+                    for key, label in display_keys.items():
+                        val = info.get(key, "N/A")
+                        table.add_row(label, val)
+                    console.print(table)
+                else:
+                    for key, label in display_keys.items():
+                        val = info.get(key, "N/A")
+                        print(f"  {label}: {val}")
+            else:
+                console.print(f"  [{THEME['accent']}]{TEXTS['sc_no_device']}[/]")
+            input(f"\n  {TEXTS['press_enter']}")
 
 # ──────────────────────────────────────────────────────────────
 #  MAIN
@@ -1759,7 +2030,7 @@ def main():
 
             choice = get_user_choice()
 
-            if choice == 13:
+            if choice == 14:
                 console.print()
                 console.print(Rule(style=THEME['muted']))
                 console.print(Align.center(Text(TEXTS["goodbye"], style=f"bold {THEME['success']}")))
@@ -1767,11 +2038,18 @@ def main():
                 console.print()
                 break
 
-            elif choice == 12:
+            elif choice == 13:
                 clear_screen()
                 print_banner()
                 view_last_report()
                 input(f"\n  {TEXTS['press_enter']}")
+                continue
+
+            elif choice == 12:
+                clear_screen()
+                print_banner()
+                screen_control(adb)
+                # العودة تلقائياً بعد الخروج من القائمة الفرعية
                 continue
 
             elif choice == 11:
